@@ -501,6 +501,7 @@ p {
 	100% {
 		color: rgb(20, 24, 225); /*my name is*/
 		font-size: 1cm;
+		font-weight: 700;
 		
 	}
 }
