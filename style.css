@@ -500,8 +500,9 @@ p {
 @keyframes text_reveal {
 	100% {
 		color: rgb(20, 24, 225); /*my name is*/
-		font-size: 1cm;
+		font-size: 1.3cm;
 		font-weight: 700;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 		
 	}
 }
@@ -510,6 +511,7 @@ p {
 		color: rgb(20, 24, 255); /*karina*/
 		font-size: 1.3cm;
 		font-weight: 700;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	}
 }
 /* End Keyframes */
